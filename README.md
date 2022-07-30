@@ -1,4 +1,6 @@
-Hi there 👋
+<h1 align="center">Hi 👋, I'm Marwa Ezzat</h1>
+<h3 align="center">Devops engineer 
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarwaEzzatMo" alt="chiraag-kakar" /> </p>
 
 <div align="center" width="300px" height= "200">
@@ -7,6 +9,7 @@ Hi there 👋
 <a href="https://www.linkedin.com/in/marwa-ezzat-mo/">
   <img align="right" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
+<br>
 
 **MarwaEzzatMo/MarwaEzzatMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
