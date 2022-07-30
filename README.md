@@ -20,4 +20,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+  
+<p align="center">
+<a href="https://github.com/MarwaEzzatMo">
+  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api?username=MarwaEzzatMo&show_icons=true&theme=light&hide_border=true&icon_color=fff" />
+  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaEzzatMo&langs_count=8&theme=light&hide_border=true&icon_color=fff" />
+<!--   <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/> -->
+</a>
+</p>
+
+  
+  
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed151/osamasayed151/0b94eb7130519adfc2dc5117c7fc25e3f6a3eb4f/murqee.svg" />
 
