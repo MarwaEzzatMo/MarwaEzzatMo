@@ -1,11 +1,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarwaEzzatMo" alt="chiraag-kakar" /> </p>
 
-<h1 align="center">Hi 👋, I'm Marwa Ezzat</h1>
-<h3 align="center">Devops engineer 
-</h3>
-
 
 <div align="center" width="300px" height= "200">
+
+
+
+
+<p align="right">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+  <h1 align="left">Hi there, I'm Marwa Ezzat 👋
+  <h3> A Devops engineer 
+  
+<h3 align="left">  Able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment.
+<br>
+
 
 <h2 align="right">Connect with me..</h2> 
 <a href="https://www.linkedin.com/in/marwa-ezzat-mo/">
